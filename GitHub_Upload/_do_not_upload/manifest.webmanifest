@@ -1,0 +1,10 @@
+{
+  "name": "P2 Prep",
+  "short_name": "P2 Prep",
+  "description": "PRINCE2 7 Practitioner practice — quick blasts, flashcards, weak areas",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#1d3557"
+}
