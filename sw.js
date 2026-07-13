@@ -1,7 +1,7 @@
 // P2 Prep service worker — makes the installed app work offline permanently.
 // Strategy: network-first for page loads (so updates arrive whenever the local
 // server happens to be running), cache fallback when offline/server closed.
-const CACHE = 'p2prep-cache-v1.7.0';
+const CACHE = 'p2prep-cache-v1.8.0';
 const ASSETS = ['./', './index.html', './manifest.webmanifest'];
 
 self.addEventListener('install', (event) => {
